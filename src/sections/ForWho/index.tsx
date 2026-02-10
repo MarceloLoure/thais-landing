@@ -1,4 +1,4 @@
-import { Container, Content, Title, Grid, Card, Icon, Text, CardTitle } from './styles';
+import { Container, Content, Title, Grid, Card, Text, CardTitle } from './styles';
 
 export function ForWho() {
   return (
