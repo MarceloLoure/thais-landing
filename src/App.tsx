@@ -6,14 +6,14 @@ import { Purchase } from "./sections/Purchase";
 import { Guarantee } from "./sections/Guarantee";
 import { Testimonials } from "./sections/Testimonials";
 import { WhatsappButton } from "./sections/WhatsappButton";
-import { VideoHighlight } from "./sections/VideoHighlight";
+
 import { VideoSection } from "./sections/VideoSection";
 
 function App() {
   return (
     <>
       <Hero />
-      {/* <VideoHighlight /> */}
+
       <VideoSection />
       <ForWho />
       <Benefits />
