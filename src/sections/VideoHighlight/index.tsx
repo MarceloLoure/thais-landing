@@ -36,7 +36,7 @@ export function VideoHighlight() {
                 <video
                     src="https://thaispadilha.com.br/wp-content/uploads/2026/02/Thais-Padilha_Fit-Woman-2.mp4"
                     autoPlay
-                    
+                    loop
                     playsInline
                     controls
                 />
